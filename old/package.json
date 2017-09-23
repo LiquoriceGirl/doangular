@@ -1,0 +1,23 @@
+{
+  "name": "doangular",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "angular": "^1.6.6",
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developersailor/doangular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developersailor/doangular/issues"
+  },
+  "homepage": "https://github.com/developersailor/doangular#readme"
+}
