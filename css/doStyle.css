@@ -1,0 +1,30 @@
+body{
+ padding: 0;
+ margin-left: 10px;
+ background-repeat: no-repeat;
+ background-position: left top;
+}
+ul{
+	padding:0px;
+	margin: 0px;
+}
+li{
+	font-family: megrim, fantasy;
+	font-size: 1.5em;
+	padding: 5px;
+
+	list-style: none;
+	margin-left: 0px;
+	padding-left: 0px;
+}
+.trueDo{
+	text-decoration: line-through;
+	color: #ddd;
+}
+.done{
+  text-decoration:line-through;
+  color:#ccc;
+}
+.flag{
+  color:red;
+}
