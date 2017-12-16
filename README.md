@@ -4,6 +4,7 @@ Angular1  and Angular5 todo app
 Projeye angular1 ile başlamıştım , zaman buldukça projeyi güncellemeye çalışacağım.Üniversite sınavına hazırlanıyorum.
 Projenin özelliklerini arttırmaya çalışıyorum.
 Projeden beklenen yeni özellikler
+
 *Notları en iyi şekilde filtrelenmesi gerekiyor.
 *Notların eşitlenebilmesi sağlanmalı ve yerel depolama mutlaka olmalı
 *Gizlilik ön planda tutulmalı
