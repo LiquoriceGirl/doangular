@@ -17,3 +17,4 @@ Angular1  and  Angular todo app
 ***Farklı yöntemler ile not alınabilmeli
 
 *Back-end dışında proje'nin değiştirilmiş noktaları github üzerinde paylaşılmalı
+*Angular ve Ionic freamwork kullanan herkesin desteğini bekliyorum(öğrenme aşamasındayım)
