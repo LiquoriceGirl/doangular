@@ -1,5 +1,12 @@
 # doangular
 # React-Native #NativeScript #Angular desteği eklendi freamwork konusunda tamamiyle özgür bir yazılım olmalı
+
+*Tekrar eden girişlerin kontrolü yapılsın
+*Verinin olması halinde verilecek hatalar belirlenmesi gerekiyor
+*Verileri temizleme
+
+
+
 *Notları en iyi şekilde filtrelenmesi gerekiyor.
 
 *Notların eşitlenebilmesi sağlanmalı ve yerel depolama mutlaka olmalı
