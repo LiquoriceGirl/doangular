@@ -1,6 +1,6 @@
 # doangular
 # React-Native #NativeScript #Angular desteği eklendi freamwork konusunda tamamiyle özgür bir yazılım olmalı
-
+# Projenin başlangıç ve bitişi belirsiz !
 *Tekrar eden girişlerin kontrolü yapılsın
 *Verinin olması halinde verilecek hatalar belirlenmesi gerekiyor
 *Verileri temizleme
